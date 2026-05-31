@@ -14127,6 +14127,7 @@
 
 [href*="/mangas/124272-"]{--show-default:0;--custom-image:url("/system/mangas/original/124272.jpg")}
 [href*="/mangas/174522-"]{--show-default:0;--custom-image:url("https://i.ibb.co/NgWLfRFW/311988l.jpg")}
+.b-db_entry img[src*="mangas/174522/"]{content: url("https://i.ibb.co/NgWLfRFW/311988l.jpg");}
 [href*="/mangas/15404-"]{--show-default:0;--custom-image:url("/system/mangas/original/15404.jpg")}
 [href*="/mangas/15306-"]{--show-default:0;--custom-image:url("/system/mangas/original/15306.jpg")}
 [href*="/mangas/87920-"]{--show-default:0;--custom-image:url("/system/mangas/original/87920.jpg")}
@@ -14140,3 +14141,4 @@
 [href*="/mangas/49967-"]{--show-default:0;--custom-image:url("/system/mangas/original/49967.jpg")}
 [href*="/mangas/29485-"]{--show-default:0;--custom-image:url("/system/mangas/original/29485.jpg")}
 [href*="/mangas/59675-"]{--show-default:0;--custom-image:url("https://i.ibb.co/9C51XVN/129641l.jpg")}
+.b-db_entry img[src*="mangas/59675/"] { content: url("https://i.ibb.co/9C51XVN/129641l.jpg");}
